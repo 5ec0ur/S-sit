@@ -1,10 +1,22 @@
-<h2 align="left"> Want To Sit On Any Prop But Cant ?
+# Ever Wanted to Sit on Any Prop but Couldn’t?
 
-<h2 align="left"> Look No Further For S-Sit Is The Script  For You !
+# 🎉 Look no further! 
 
-![image](https://github.com/user-attachments/assets/04438fb8-6cf5-4860-afdf-0c2225230de4)
+## S-Sit is here to revolutionize your roleplay experience. With this powerful script, you can sit on virtually any prop in the game, adding a new layer of 
+immersion and fun to your server.
+
+![image](https://github.com/user-attachments/assets/08578b1a-29ba-4e50-8ae1-e41b6a584b0c)
 
 
- If You need Support Join My Discord !
 
-<h2 align="left"> Join My Discord ---> https://discord.gg/bdXMW5JT6B
+# 🔧 Why Choose S-Sit?
+
+## Effortless installation and compatibility.
+Enhance player interactions and roleplay scenarios.
+Lightweight and efficient for smooth performance.
+
+# 📢 Need Support?
+
+## Our dedicated community is here to help! For assistance, updates, or just to connect with other S-Sit users, join our Discord community today:
+
+# 👉 [Discord](https://discord.gg/bdXMW5JT6B)
